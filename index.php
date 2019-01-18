@@ -45,7 +45,7 @@ try {
     $mail->Port = 587;                                    // TCP port to connect to
 
     //Recipients
-    $mail->setFrom('netkom2013@gmail.com', 'adi rahman');
+    $mail->setFrom('Your-mail', 'your-name');
     $mail->addAddress($emailTo);     // Add a recipient
     //Content
     $mail->isHTML(true);                                  // Set email format to HTML
