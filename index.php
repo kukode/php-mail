@@ -7,7 +7,7 @@ use PHPMailer\PHPMailer\Exception;
 //Load Composer's autoloader
 require 'vendor/autoload.php';
 require './config-mail.php';
-require './camera/lib/db.php';
+require './lib/db.php';
 
 if(isset($_POST['send'])){
 
