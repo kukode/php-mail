@@ -8,4 +8,4 @@ Send email with PHP
  - install composer
  - install php mailer dengan sintaks berikut <code>composer require phpmailer/phpmailer</code>
  - silahkan setup gmail anda dengan mengikuti link ini https://devanswers.co/allow-less-secure-apps-access-gmail-account/ dan ikuti petunjuknya untuk membuka less secure apps menjadi ON
- 
+ - jalankan aplikasi anda :) Selamat Mencoba
